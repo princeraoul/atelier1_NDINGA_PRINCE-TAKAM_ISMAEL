@@ -1,0 +1,2 @@
+# atelier1_NDINGA_PRINCE-TAKAM_ISMAEL
+Git basic 
